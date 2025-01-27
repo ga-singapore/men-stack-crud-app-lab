@@ -5,7 +5,7 @@
 
 ## About
 
-This is lab practices building a CRUD application of a resource of your choice using the MEN stack.
+This lab practices building a CRUD application of a resource of your choice using the MEN stack.
 
 ## Content
 

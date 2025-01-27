@@ -69,7 +69,7 @@ We've provided the steps below as a guide to get you started.
 
 #### 1\. Set Up Your project structure
 
-*   Initialize your project and install necessary packages (express, mongoose, etc.).
+*   Initialise your project and install necessary packages (express, mongoose, etc.).
 *   Create your `server.js` file.
 
 #### 2\. Create the server and test route
@@ -96,9 +96,7 @@ We've provided the steps below as a guide to get you started.
 *   Build the `POST /plants` route to handle `CREATE` functionality for data sent from front end.
 *   Repeat this process for each CRUD operation - create corresponding `routes` and `controllers` in the appropriate files.
 *   Be sure you test each route and view in the browser to confirm functionality before moving to the next one.
-
 <br>
-
 Your completed application should have the following RESTful routes:
 
 | HTTP Method | Route       | Action  | Description                         |
