@@ -106,5 +106,6 @@ Your completed application should have the following RESTful routes:
 | GET         | /plants/:id | Show    | Displays a specific plant by its ID |
 | PUT         | /plants/:id | Update  | Updates a specific plant by its ID  |
 | DELETE      | /plants/:id | Destroy | Deletes a specific plant by its ID  |
+
 <br>
 Happy coding! 
